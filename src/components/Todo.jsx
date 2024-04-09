@@ -6,7 +6,7 @@ const Todo = () => {
   return (
     <div className='p-5 flex justify-between text-white'>
        <div className="flex" >
-       
+       {/*  use line-through class for strike */}
        <h1  className='text-white text-2xl'>TASK 1</h1>
        </div>
        <div className="flex space-x-2">
